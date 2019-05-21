@@ -97,7 +97,7 @@
   "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "date-fns": "^2.0.0-alpha.23",
+    "date-fns": "^2.0.0-alpha.23"
   },
   "dependencies": {
     "classnames": "^2.2.5",
